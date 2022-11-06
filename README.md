@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Alex Lohr, an experienced front-end developer writing code and supporting my team for GoTo. I'm also ecosystem team member of SolidJS.
+
+Find me on <a rel="me" href="https://chaos.social/@lexLohr">Mastodon</a>.
+
 <!--
 **atk/atk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
